@@ -1,0 +1,43 @@
+03-19 19:52:01: >>> TimingExecutor Start >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+03-19 19:52:01: >>> - Version: 6.8.0.0 (Build 100.16032023)
+03-19 19:52:01: >>> - License: 
+03-19 19:52:01: 995 ### log_0.txt's size: 0 bytes
+03-19 19:52:02: 3 *** TimingExecuterFrame::OnActivate
+03-19 19:52:02: 44 ### TimingExecuterFrame::updateStatusbar -> 任务数：2|2，触发器数：2|2，线程数：4，触发器数/每线程：1|1|4
+03-19 19:52:02: 45 ### TimingExecuterFrame::updateStatusbar -> 运行中 | 安静模式 : 关
+03-19 19:52:05: 906 *** TimingExecuterFrame::Onm_timerTrigger
+03-19 19:52:05: 906 *** Starting CheckTriggerFireThreadEx by thread index >>>>>>
+03-19 19:52:05: 906 ### CheckTriggerFireThreadEx[ThreadID_10176, nThreadCnt_4, nThreadIdx_0, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:05: 906 ### CheckTriggerFireThreadEx[ThreadID_12192, nThreadCnt_4, nThreadIdx_1, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:05: 906 ### CheckTriggerFireThreadEx[ThreadID_1136, nThreadCnt_4, nThreadIdx_2, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:05: 906 ### CheckTriggerFireThreadEx[ThreadID_15020, nThreadCnt_4, nThreadIdx_3, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:08: 18 ->> [JID_0, ThreadID_5656] 打开网址 | https://blog.csdn.net/boomworks
+03-19 19:52:08: 18 ### TimingExecuterFrame::updateStatusbar -> 任务数：2|2，触发器数：1|2，线程数：4，触发器数/每线程：1|1|4
+03-19 19:52:08: 128 <<- [JID_0, ThreadID_5656] Exit
+03-19 19:52:08: 167 *** TimingExecuterFrame::OnActivate
+03-19 19:52:09: 814 ->> [JID_1, ThreadID_3476] Refresh URL | https://blog.csdn.net/boomworks/article/details/113486307
+03-19 19:52:19: 833 ->> [JID_1, ThreadID_14596] Refresh URL | https://blog.csdn.net/boomworks/article/details/113486307
+03-19 19:52:25: 348 *** TimingExecuterFrame::OnActivate
+03-19 19:52:27: >>> TimingExecutor Start >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+03-19 19:52:27: >>> - Version: 6.8.0.0 (Build 100.16032023)
+03-19 19:52:27: >>> - License: 
+03-19 19:52:27: 974 ### log_0.txt's size: 1771 bytes
+03-19 19:52:27: 982 *** TimingExecuterFrame::OnActivate
+03-19 19:52:28: 14 ### TimingExecuterFrame::updateStatusbar -> 任务数：2|2，触发器数：2|2，线程数：4，触发器数/每线程：1|1|4
+03-19 19:52:28: 14 ### TimingExecuterFrame::updateStatusbar -> 运行中 | 安静模式 : 关
+03-19 19:52:30: 73 *** TimingExecuterFrame::Onm_pLcJobItemRClick
+03-19 19:52:31: 486 *** TimingExecuterFrame::Onm_pTbiEnableJobClick
+03-19 19:52:31: 508 *** TimingExecuterFrame::OnActivate
+03-19 19:52:31: 950 *** TimingExecuterFrame::Onm_timerTrigger
+03-19 19:52:31: 950 *** Starting CheckTriggerFireThreadEx by thread index >>>>>>
+03-19 19:52:31: 950 ### CheckTriggerFireThreadEx[ThreadID_12740, nThreadCnt_4, nThreadIdx_0, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:31: 950 ### CheckTriggerFireThreadEx[ThreadID_2384, nThreadCnt_4, nThreadIdx_1, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:31: 950 ### CheckTriggerFireThreadEx[ThreadID_17196, nThreadCnt_4, nThreadIdx_2, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:31: 950 ### CheckTriggerFireThreadEx[ThreadID_8472, nThreadCnt_4, nThreadIdx_3, nCheckTriggerCnt_4] Start >>>>>>
+03-19 19:52:33: 802 *** TimingExecuterFrame::OnActivate
+03-19 19:52:36: 882 ->> [JID_0, ThreadID_13076] 打开网址 | https://blog.csdn.net/boomworks
+03-19 19:52:38: 621 *** TimingExecuterFrame::OnActivate
+03-19 19:52:37: 7 <<- [JID_0, ThreadID_13076] Exit
+03-19 19:52:38: 622 ### TimingExecuterFrame::updateStatusbar -> 任务数：2|2，触发器数：1|2，线程数：4，触发器数/每线程：1|1|4
+03-19 19:52:38: 727 *** TimingExecuterFrame::OnIconize
+03-19 19:52:39: 831 ->> [JID_1, ThreadID_1396] Refresh URL | https://blog.csdn.net/boomworks/article/details/113486307

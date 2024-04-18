@@ -1,0 +1,1 @@
+start /d "D:\_boomwx\_boomwxtmp\t08251\bin\Debug" t08251.exe

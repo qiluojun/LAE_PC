@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCHEDULER>
+  <TRIGGER>
+    <END>59 59 23 31 12 * 2999</END>
+    <START>0 0 0 1 1 * 1999</START>
+    <NEXTFIRE>0 26 4 3 12 * 2022</NEXTFIRE>
+    <PREVFIRE>0 0 0 1 1 * 1999</PREVFIRE>
+    <CONDITION>|%N8!zhHeHxD!XFJ!29nS2lBcUl-OD0=</CONDITION>
+    <TYPE>2</TYPE>
+    <ID>1</ID>
+  </TRIGGER>
+  <TRIGGER>
+    <END>59 59 23 31 12 * 2999</END>
+    <START>0 0 0 1 1 * 1999</START>
+    <NEXTFIRE>53 25 4 3 12 * 2022</NEXTFIRE>
+    <PREVFIRE>0 0 0 1 1 * 1999</PREVFIRE>
+    <CONDITION>|%N8!0FHd0l-!WdOU0F0SU|wP!==</CONDITION>
+    <TYPE>1</TYPE>
+    <ID>0</ID>
+  </TRIGGER>
+  <JOB>
+    <INFO>https://blog.csdn.net/boomworks/article/details/113486307</INFO>
+    <JID></JID>
+    <TID>1</TID>
+    <ENABLE>1</ENABLE>
+    <DESC>Refresh URL</DESC>
+    <TYPE>8</TYPE>
+    <ID>1</ID>
+  </JOB>
+  <JOB>
+    <INFO>https://blog.csdn.net/boomworks</INFO>
+    <JID></JID>
+    <TID>0</TID>
+    <ENABLE>1</ENABLE>
+    <DESC>打开网址</DESC>
+    <TYPE>1</TYPE>
+    <ID>0</ID>
+  </JOB>
+</SCHEDULER>
