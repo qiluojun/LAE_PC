@@ -1,5 +1,5 @@
 英文版，请戳[这里](README.md)~
-for Chinese version → [here](README_ZH.md)
+for English version → [here](README.md)
 
 # LAE_PC
  live and enjoy!with help from PC!
@@ -9,6 +9,21 @@ for Chinese version → [here](README_ZH.md)
 ## LAE程序是什么？能做什么？
 
 LAE程序是以“live and enjoy”为目的而设计的一系列辅助自我调节的程序。PC端功能较多，移动端处于开发初期。
+
+### 理论基础--HABIT ALTERATION MODEL  
+
+![HAM](HAM.png)
+
+点击[这里](https://jiatang2002.cn/2024/06/22/LAE/#Theoretical-Basis)以查看更详细的说明~
+
+### 程序定位
+
+此为 “LAE”系统研究的一部分，请见[这里](https://jiatang2002.cn/2024/06/22/LAE/#LAE-Program-and-Academic-Interests)~ 
+
+![plan](plan.png)
+
+
+
 
 ### 具体功能
 

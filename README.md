@@ -8,6 +8,18 @@ live and enjoy! with help from PC!
 
 The LAE program is a series of self-regulation assistance programs designed with the purpose of "live and enjoy." The PC version has more features, while the mobile version is still in the early stages of development.
 
+### theory basis--HABIT ALTERATION MODEL  
+
+![HAM](HAM.png)
+
+click[here](https://jiatang2002.cn/2024/06/22/LAE/#Theoretical-Basis)for more details~
+
+### program location 
+
+This is part of "LAE" system, please see [here](https://jiatang2002.cn/2024/06/22/LAE/#LAE-Program-and-Academic-Interests)
+
+![plan](plan.png)
+
 ### Specific Features
 
 Overall, the specific features are still under continuous development and await integration. Current features include:
